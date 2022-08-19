@@ -20,7 +20,6 @@
 | cat archivo.txt | Visualizar el contenido de un archivo | <img width="307" alt="image" src="https://user-images.githubusercontent.com/102490992/185539830-903da37e-1103-4594-82c9-9c25c722614e.png"> |
 | history > archivo.txt | Guardar el historial de comandos de la terminal | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539869-feae8af0-3b52-45f4-91f1-3c009e50fcf6.png"> |
 | head -n 3 archivo.txt | Visualizar las líneas de un archivo | <img width="439" alt="image" src="https://user-images.githubusercontent.com/102490992/185539911-c134b606-e918-41cd-8683-737111baa6a0.png"> |
-
 | history > archivo.txt | Guardar el historial de comandos de la terminal | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539869-feae8af0-3b52-45f4-91f1-3c009e50fcf6.png"> |
 | cp | Copiar un archivo |
 | mv | Mover un archivo |
