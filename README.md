@@ -51,15 +51,14 @@
 | ~ docker network ls | Para ver las redes de Docker | ![image](https://user-images.githubusercontent.com/102490992/185541420-a73812cf-3e31-48ce-a6cb-5971f761f3ad.png)|
 | sudo ifconfig docker0 | Para ver la interface Docker Cero | ![image](https://user-images.githubusercontent.com/102490992/185541452-86bc4468-472e-40f2-a37c-10093c5146ca.png)|
 | ~ docker network create --driver (nombre de la red) | Crear un driver | ![image](https://user-images.githubusercontent.com/102490992/185541481-2282b784-eecf-4ef9-8e29-aeecfec60e7c.png)|
-| ~ sudo ifconfig -s | Para ver las interfaces | ![image](https://user-images.githubusercontent.com/102490992/185541536-27c8dda2-5ed8-4d0b-a082-cefa2920891b.png)|
-| ~sudo ifconfig (red) | Para ver los contenedores de una red |
-| docker pull | Se trae del repositorio o registro que nosotros le digamos la imagen adecuada|
-| docker ps -a | Para ver los contenedores que estan en ejecucion y los que no |
-| ~ docker run -ti --rm ubuntu bash = entry point | Para activar comandos Unix |
-| ~ docker rmi (imagen) | Para borrar imagenes |
-| producer curso vim Dockerfile | Hacer variables |
-| docker find ./ | Muestra ficheros |
-| producer nginx docker built -t (imagen y version) (carpeta) | Crear imagenes |
+| ~ sudo ifconfig -s | Para ver las interfaces | ![image](https://user-images.githubusercontent.com/102490992/185541536-27c8dda2-5ed8-4d0b-a082-cefa2920891b.png)| 
+| docker pull | Se trae del repositorio o registro que nosotros le digamos la imagen adecuada| ![image](https://user-images.githubusercontent.com/102490992/185541700-99bacf87-e74f-409f-a4b5-f38840f64e6a.png)|
+| docker ps -a | Para ver los contenedores que estan en ejecucion y los que no | ![image](https://user-images.githubusercontent.com/102490992/185541732-3ff6db4c-eabf-4864-b788-02e8f943348c.png)|
+| ~ docker run -ti --rm ubuntu bash = entry point | Para activar comandos Unix | ![image](https://user-images.githubusercontent.com/102490992/185541773-4d4c05cc-de13-475d-8cd1-c86b30df3132.png)|
+| ~ docker rmi (imagen) | Para borrar imagenes | ![image](https://user-images.githubusercontent.com/102490992/185541810-4ef0d698-00e0-41c0-8bdd-27ba2f9482da.png)|
+| producer curso vim Dockerfile | Hacer variables | ![image](https://user-images.githubusercontent.com/102490992/185541858-1d221a79-7101-453a-a209-ceba60b23067.png)|
+| docker find ./ | Muestra ficheros | ![image](https://user-images.githubusercontent.com/102490992/185541893-84de48ba-0d2f-4988-90aa-8e0690ab65b1.png)|
+| producer nginx docker built -t (imagen y version) (carpeta) | Crear imagenes |![image](https://user-images.githubusercontent.com/102490992/185541918-d8037432-0d59-4335-ad60-b58a7d06a4c8.png)|
 | -------------- | ----------- | ------ |
 | Comando Manjaro | Descripción | Imagen |
 | -------------- | ----------- | ------ |
