@@ -67,3 +67,9 @@
 | sudo pacman -S unrar zip unzip p7zip gzip bzip2 | Instalar nuevos paquetes para comprimir y descomprimir archivos |
 | sudo pacman -S yay sudo yay -S --needed base-devel | Instalar el Repositorio AUR (Arch User Repository) |
 | yay -S google-chrome | Instalar google-chrome por medio del instalador de paquetes yay |
+| sudo pacman -S apache | Instalar apache en Manjaro |
+| uname -a | Visualizar el uso de los kernel |
+| sudo useradd -m nombredeusuario -G wheel -p passworddelusuario | Comando para agregar un nuevo usuario |
+| Chown | Otorgar permisos a una carpeta |
+| Grep | Realizar búsquedas de un texto dentro de un archivo de texto |
+|
