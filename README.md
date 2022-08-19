@@ -21,23 +21,22 @@
 | history > archivo.txt | Guardar el historial de comandos de la terminal | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539869-feae8af0-3b52-45f4-91f1-3c009e50fcf6.png"> |
 | head -n 3 archivo.txt | Visualizar las líneas de un archivo | <img width="439" alt="image" src="https://user-images.githubusercontent.com/102490992/185539911-c134b606-e918-41cd-8683-737111baa6a0.png"> |
 | history > archivo.txt | Guardar el historial de comandos de la terminal | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539869-feae8af0-3b52-45f4-91f1-3c009e50fcf6.png"> |
-| cp | Copiar un archivo |
-| mv | Mover un archivo |
-| rm | Borrar un archivo |
-| Dpgk -l | Instalar un paquete que se haya descargado |
-| sudo apt install neofetch | Instalación del neofetch |
-| neofetch | Ejecuta el Neofetch |
-| sudo apt | Para instalar paquetes |
-| clear | Limpia la terminal |
-| sudo apt update && sudo apt upgrade | Para las nuevas instalaciones realizarles una actualización |
-| sudo apt install cmatrix | Instalar matrix |
+| cp | Copiar un archivo | <img width="400" alt="image" src="https://user-images.githubusercontent.com/102490992/185540216-483b4ba3-29b6-4102-9259-da46e6ba0ea3.png">|
+| mv | Mover un archivo | <img width="385" alt="image" src="https://user-images.githubusercontent.com/102490992/185540231-af4183f6-9538-4bae-8402-73fc46d1e194.png">|
+| rm | Borrar un archivo | <img width="213" alt="image" src="https://user-images.githubusercontent.com/102490992/185540254-d8313b79-95bd-4566-b64e-b63925b93041.png">|
+| Dpgk -l | Instalar un paquete que se haya descargado | ![image](https://user-images.githubusercontent.com/102490992/185540397-ae455634-ac75-4155-ac89-b88187676201.png)|
+| sudo apt install neofetch | Instalación del neofetch | ![image](https://user-images.githubusercontent.com/102490992/185540577-868bb10c-70bb-4c44-a07a-634c8831af75.png)|
+| neofetch | Ejecuta el Neofetch | ![image](https://user-images.githubusercontent.com/102490992/185540628-5fea234b-17bd-4f50-aa7d-d472fd6f9c7a.png)|
+| sudo apt | Para instalar paquetes | ![image](https://user-images.githubusercontent.com/102490992/185540738-63709860-6cae-4ad1-be2b-47667310c958.png)|
+| clear | Limpia la terminal | Comando sin imagen
+| sudo apt update && sudo apt upgrade | Para las nuevas instalaciones realizarles una actualización | <img width="758" alt="image" src="https://user-images.githubusercontent.com/102490992/185541017-09aec432-bfdc-455d-8e90-3eca88264aab.png">|
 | man | Muestra el manual |
 | exit | Sale del porgrama |
 | Touch archivo | Crea archivo dentro de directorio |
 | Scp archivo usuario@direccionip:/ruta | Para transferir archivos entre hosts a través del protocolo SSH |
 | git clone URL | Para clonar |
 | wc /var/log/syslog | Cuenta la cantidad de líneas |
-| tail | Mostrar las últimas líneas de cualquier fichero |
+| tail | Mostrar las últimas líneas de cualquier fichero | <img width="413" alt="image" src="https://user-images.githubusercontent.com/102490992/185540128-fb9b23bc-763e-44c3-809c-6322b318120a.png">|
 | Reboot | Renicia el equipo |
 | Shutdown | Apaga el equipo |
 | Pdfunite “nombres de los pdf a unir” / “nombre.pdf” ”nuevo nombre” | Une archivos PDF |
