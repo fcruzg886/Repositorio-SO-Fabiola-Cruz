@@ -2,7 +2,7 @@
 
 | Comando | Descripción | Imagen |
 | --- | --- | --- |
-| Ip addr | Muestra las direcciones IP | 
+| Ip addr | Muestra las direcciones IP | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185538799-f1880aa7-8c91-45ef-b5ef-f909e83e2048.png"> |
 | ping 8.8.8.8(direccion) | Acceso a internet |
 | sudo apt install openssh-server | Habilitar el protocolo SSH en el equipo | 
 | ls | Mostrar los archivos y carpetas de un directorio | 
