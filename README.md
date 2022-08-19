@@ -66,8 +66,7 @@
 | sudo pacman -S unrar zip unzip p7zip gzip bzip2 | Instalar nuevos paquetes para comprimir y descomprimir archivos | <img width="604" alt="image" src="https://user-images.githubusercontent.com/102490992/185542631-2e22d545-44a2-46a1-8e19-f62b1e9746fb.png">|
 | sudo pacman -S yay sudo yay -S --needed base-devel | Instalar el Repositorio AUR (Arch User Repository) | <img width="604" alt="image" src="https://user-images.githubusercontent.com/102490992/185542673-f465cfe3-ace6-43d4-9215-c0e643127bc0.png">|
 | yay -S google-chrome | Instalar google-chrome por medio del instalador de paquetes yay | ![image](https://user-images.githubusercontent.com/102490992/185542997-4ed0a946-9bc0-400e-8b95-92d0ba38432b.png)|
-| sudo pacman -S apache | Instalar apache en Manjaro |
-![image](https://user-images.githubusercontent.com/102490992/185543097-0dee344f-a569-426e-8575-488ea7c140b8.png)|
+| sudo pacman -S apache | Instalar apache en Manjaro| ![image](https://user-images.githubusercontent.com/102490992/185543970-c3d93498-3c25-415f-91ac-67d85fd69534.png)|
 | uname -a | Visualizar el uso de los kernel | <img width="790" alt="image" src="https://user-images.githubusercontent.com/102490992/185542850-95716d33-b6c3-437a-b5a2-46328f3653ad.png">|
 | sudo useradd -m nombredeusuario -G wheel -p passworddelusuario | Comando para agregar un nuevo usuario | <img width="372" alt="image" src="https://user-images.githubusercontent.com/102490992/185543359-e915a26b-8129-456d-ae3b-338ab564ba79.png"> |
 | Chown | Otorgar permisos a una carpeta | ![image](https://user-images.githubusercontent.com/102490992/185543510-9c08bc16-10d5-4d09-af2f-92789a8eb0ca.png)|
