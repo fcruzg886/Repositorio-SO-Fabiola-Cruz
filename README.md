@@ -35,7 +35,7 @@
 | Touch archivo | Crea archivo dentro de directorio | ![image](https://user-images.githubusercontent.com/102490992/185544199-f0c2c544-a7df-46c1-914b-e615669e8fc5.png) |
 | Scp archivo usuario@direccionip:/ruta | Para transferir archivos entre hosts a través del protocolo SSH | ![image](https://user-images.githubusercontent.com/102490992/185544291-0228efe8-be48-43c4-99ff-918cf199eeb4.png) |
 | git clone URL | Para clonar | ![image](https://user-images.githubusercontent.com/102490992/185544480-a0285687-55d1-4bf9-987b-8f649d2527ee.png)|
-| wc /var/log/syslog | Cuenta la cantidad de líneas |
+| wc /var/log/syslog | Cuenta la cantidad de líneas | Comando sin Imagen |
 | tail | Mostrar las últimas líneas de cualquier fichero | <img width="413" alt="image" src="https://user-images.githubusercontent.com/102490992/185540128-fb9b23bc-763e-44c3-809c-6322b318120a.png">|
 | Reboot | Renicia el equipo | Comando sin Imagen |
 | Shutdown | Apaga el equipo | Comando sin Imagen |
