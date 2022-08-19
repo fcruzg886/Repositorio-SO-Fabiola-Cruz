@@ -43,15 +43,15 @@
 | -------------- | ----------- | ------ |
 | Comando Docker | Descripción | Imagen |
 | -------------- | ----------- | ------ |
-| curso docker images | Para ver las imagenes con las que cuenta |
-| curso docker ps -a | Para ver el estado de los contenedores |
-| curso docker history nginx | Historial de capas |
-| curso docker info | Muestra los drivers |
-| curse uname -a | Para ver el kernel |
-| ~ docker network ls | Para ver las redes de Docker |
-| sudo ifconfig docker0 | Para ver la interface Docker Cero |
-| ~ docker network create --driver (nombre de la red) | Crear un driver |
-| ~ sudo ifconfig -s | Para ver las interfaces |
+| curso docker images | Para ver las imagenes con las que cuenta | ![image](https://user-images.githubusercontent.com/102490992/185541170-1e7ae890-6401-4102-9833-471e701cb68f.png)|
+| curso docker ps -a | Para ver el estado de los contenedores | ![image](https://user-images.githubusercontent.com/102490992/185541250-9233849c-4874-423c-bb18-9262f195087e.png)|
+| curso docker history nginx | Historial de capas | ![image](https://user-images.githubusercontent.com/102490992/185541273-0ad7f7c4-73db-4fb9-a021-a50bd96991fa.png)|
+| curso docker info | Muestra los drivers | ![image](https://user-images.githubusercontent.com/102490992/185541354-908744ac-e45e-475a-a6d4-050d4497b144.png)|
+| curse uname -a | Para ver el kernel | ![image](https://user-images.githubusercontent.com/102490992/185541398-217a2837-6dae-411d-b64b-3719ea13c9c8.png)|
+| ~ docker network ls | Para ver las redes de Docker | ![image](https://user-images.githubusercontent.com/102490992/185541420-a73812cf-3e31-48ce-a6cb-5971f761f3ad.png)|
+| sudo ifconfig docker0 | Para ver la interface Docker Cero | ![image](https://user-images.githubusercontent.com/102490992/185541452-86bc4468-472e-40f2-a37c-10093c5146ca.png)|
+| ~ docker network create --driver (nombre de la red) | Crear un driver | ![image](https://user-images.githubusercontent.com/102490992/185541481-2282b784-eecf-4ef9-8e29-aeecfec60e7c.png)|
+| ~ sudo ifconfig -s | Para ver las interfaces | ![image](https://user-images.githubusercontent.com/102490992/185541536-27c8dda2-5ed8-4d0b-a082-cefa2920891b.png)|
 | ~sudo ifconfig (red) | Para ver los contenedores de una red |
 | docker pull | Se trae del repositorio o registro que nosotros le digamos la imagen adecuada|
 | docker ps -a | Para ver los contenedores que estan en ejecucion y los que no |
