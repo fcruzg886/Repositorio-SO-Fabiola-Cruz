@@ -3,23 +3,25 @@
 | Comando | Descripción | Imagen |
 | --- | --- | --- |
 | Ip addr | Muestra las direcciones IP | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185538799-f1880aa7-8c91-45ef-b5ef-f909e83e2048.png"> |
-| ping 8.8.8.8(direccion) | Acceso a internet |
-| sudo apt install openssh-server | Habilitar el protocolo SSH en el equipo | 
-| ls | Mostrar los archivos y carpetas de un directorio | 
-| ls -l | Visualizar los permisos y dueño de la carpeta | 
-| mkdir | Crear carpetas |
-| pwd | Visualizar la ubicación del directorio actual |
-| cd | Ingresar a una carpeta |
-| cd .. | Salir de una carpeta |
-| sudo adduser test | Añadir un usuario |
-| sudo passwd user | Cambiar la contraseña de un usuario |
-| su user | Cambiar de usuario desde la terminal |
-| whoami | Conocer cuál es el usuario actual |
-| sudo su | Ingresar como usuario administrador |
-| nano archivo.txt | Editar el contenido de un archivo |
-| cat archivo.txt | Visualizar el contenido de un archivo |
-| history > archivo.txt | Guardar el historial de comandos de la terminal |
-| head -n 3 archivo.txt | Visualizar las líneas de un archivo |
+| ping 8.8.8.8(direccion) | Acceso a internet | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539328-18a8faa4-da06-4781-b4d1-3ece53a9c6bb.png"> |
+| sudo apt install openssh-server | Habilitar el protocolo SSH en el equipo | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539179-1857f229-df7e-443b-a24d-78dc17536ba6.png">|
+| ls | Mostrar los archivos y carpetas de un directorio | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539214-7f8a6199-58aa-42d0-9165-16e85021a7c6.png">|
+| ls -l | Visualizar los permisos y dueño de la carpeta | <img width="460" alt="image" src="https://user-images.githubusercontent.com/102490992/185539397-b6fdf867-2a65-4a9b-a2f0-7d247ee55e53.png">|
+| mkdir | Crear carpetas | <img width="304" alt="image" src="https://user-images.githubusercontent.com/102490992/185539435-61ad3fe0-27bb-4de1-ac83-572ec8d42ea1.png"> |
+| pwd | Visualizar la ubicación del directorio actual | <img width="279" alt="image" src="https://user-images.githubusercontent.com/102490992/185539471-b4709523-e520-457e-9321-033e25b66ef8.png">|
+| cd | Ingresar a una carpeta | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539500-b3e75f58-3397-433e-b66f-46dcfbd112ba.png"> |
+| cd .. | Salir de una carpeta | <img width="348" alt="image" src="https://user-images.githubusercontent.com/102490992/185539525-69b4f8fc-c3b0-4ec4-aaac-c8e4f2952e04.png">|
+| sudo adduser test | Añadir un usuario | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539560-c0142097-d93b-48ff-88e7-4c835f95def6.png">|
+| sudo passwd user | Cambiar la contraseña de un usuario | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539594-9528be5b-0207-4830-934d-36a94b7c3fd5.png"> |
+| su user | Cambiar de usuario desde la terminal | <img width="324" alt="image" src="https://user-images.githubusercontent.com/102490992/185539691-da22dcaa-31f3-4e1d-a927-a097cb931ba2.png"> |
+| whoami | Conocer cuál es el usuario actual | <img width="297" alt="image" src="https://user-images.githubusercontent.com/102490992/185539722-371146d4-5e54-40a7-9a87-eb0a15ac165c.png"> |
+| sudo su | Ingresar como usuario administrador | <img width="397" alt="image" src="https://user-images.githubusercontent.com/102490992/185539760-7035d008-1af6-4d72-ac39-2b6be4205fe9.png"> |
+| nano archivo.txt | Editar el contenido de un archivo | <img width="333" alt="image" src="https://user-images.githubusercontent.com/102490992/185539791-8f3082be-acd9-4f8a-9fae-092a54fceee4.png"> |
+| cat archivo.txt | Visualizar el contenido de un archivo | <img width="307" alt="image" src="https://user-images.githubusercontent.com/102490992/185539830-903da37e-1103-4594-82c9-9c25c722614e.png"> |
+| history > archivo.txt | Guardar el historial de comandos de la terminal | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539869-feae8af0-3b52-45f4-91f1-3c009e50fcf6.png"> |
+| head -n 3 archivo.txt | Visualizar las líneas de un archivo | <img width="439" alt="image" src="https://user-images.githubusercontent.com/102490992/185539911-c134b606-e918-41cd-8683-737111baa6a0.png"> |
+
+| history > archivo.txt | Guardar el historial de comandos de la terminal | <img width="468" alt="image" src="https://user-images.githubusercontent.com/102490992/185539869-feae8af0-3b52-45f4-91f1-3c009e50fcf6.png">
 | cp | Copiar un archivo |
 | mv | Mover un archivo |
 | rm | Borrar un archivo |
